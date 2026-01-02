@@ -2,7 +2,7 @@
 Library    SeleniumLibrary
 
 *** Variables ***
-${URL}    http://127.0.0.1:8000/StarterFiles/Registration.html
+${URL}    http://127.0.0.1:7272/StarterFiles/Registration.html
 
 *** Keywords ***
 Open Workshop Registration Page

@@ -8,7 +8,7 @@ Test Teardown     Capture Screenshot And Close Browser
 Suite Teardown    Close Workshop Browser
 
 *** Variables ***
-${URL}            http://127.0.0.1:8000/StarterFiles/Registration.html
+${URL}            http://127.0.0.1:7272/StarterFiles/Registration.html
 ${SCREENSHOT_DIR}    screenshots
 
 *** Test Cases ***
